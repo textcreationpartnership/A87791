@@ -1,0 +1,1812 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Presbyterian lash. Or, Noctroff's maid whipt. A tragy-comedy. As it was lately acted in the great roome at the Pye Tavern at Algate. By Noctroffe the priest, and severall his parishoners at the eating of a chine of beefe. The first part.</title>
+            <author>Kirkman, Francis, 1632-ca. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87791</idno>
+            <idno type="STC">Wing K635</idno>
+            <idno type="STC">Thomason E1085_12</idno>
+            <idno type="STC">ESTC R28968</idno>
+            <idno type="EEBO-CITATION">99872219</idno>
+            <idno type="PROQUEST">99872219</idno>
+            <idno type="VID">169366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169366)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1085[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Presbyterian lash. Or, Noctroff's maid whipt. A tragy-comedy. As it was lately acted in the great roome at the Pye Tavern at Algate. By Noctroffe the priest, and severall his parishoners at the eating of a chine of beefe. The first part.</title>
+                  <author>Kirkman, Francis, 1632-ca. 1680.</author>
+               </titleStmt>
+               <extent>[2], 6, [24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the use of Mr. Noctroffs friends, and are to be sold at the Pye at Algate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: K.F., i.e. Francis Kirkman.</note>
+                  <note>Partly in verse.</note>
+                  <note>Signatures: A-Dp4s.</note>
+                  <note>Quire B is in two settings; B1r signed (1) C or (2) B.</note>
+                  <note>In part, a lampoon of Perjury the proof of forgery, a defense of Zachary Crofton which was written by Crofton under the pseudonym Alethes Noctroff.</note>
+                  <note>Annotation on Thomason copy: "march. 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crofton, Zachary, 1625 or 6-1672. --  Perjury the proof of forgery --  Humor --  Early works to 1800.</term>
+               <term>Presbyterianism --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169366:1" rendition="simple:additions"/>
+            <p>THE Presbyterian Laſh. OR, NOCTROFF'S MAID WHIPT. A
+Tragy-Comedy. AS It was lately Acted in the Great Roome at the <hi>Pye
+Tavern</hi> at <hi>Algate.</hi> By <hi>Noctroffe</hi> the Prieſt, and
+ſeverall his Pari<g ref="char:EOLhyphen"/>ſhoners at the eating of a chine of Beefe.</p>
+            <p>The firſt Part.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the uſe of Mr. <hi>Noctroffs</hi>
+friends, and are to be ſold at the <hi>Pye</hi> at <hi>Algate,</hi> 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169366:2"/>
+            <pb n="1" facs="tcp:169366:2"/>
+            <head>To Maſter ZACH. NOCTROFFE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">K</seg>Nowing that it is your great ambition (for the carrying on of
+your deſignes) to be popular, as your many pamphlets againſt Divine Service
+and Epiſcopacy, do ſuffici<g ref="char:EOLhyphen"/>ently demonſtrate: and Sir, knowing that your
+own time is ſo extreamly taken up in preparing and fitting your ſelf to
+cant forth ſedition at St. <hi>Antholins,</hi> where I out of curioſity was
+lately to hear you, and believing that it is your intent to raiſe your ſelf
+as high as your late Patron <hi>Hugh Peters;</hi> and rather than a week
+ſhould paſſe, and ſomewhat of your name not appear in print, I have
+made bold to publiſh this piece, hoping, though it may have as little ſence
+in it as ſome of your own, you will patronize it: and Sir, Ile aſſure
+you, that ſo ſoon as I can receive perfecter intelligence of your late
+tranſ<g ref="char:EOLhyphen"/>actions in your pariſh, and be better informed of your de<g ref="char:EOLhyphen"/>ſignes, I
+ſhall publiſh them to the world, that your fame may never dye. Thus, Sir,
+hoping, though I preſent not one of theſe myſelf to you, yet you will
+protect this from this Cenſorious Age; I reſt</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Yours to do you ſervice K.
+F.</signed>
+            </closer>
+         </div>
+         <div type="dramatis_personae">
+            <pb n="2" facs="tcp:169366:3"/>
+            <head>The Names of the Actors.</head>
+            <list>
+               <item>
+                  <hi>NOctroffe</hi> a hot-headed <hi>Presbyterian</hi>
+Prieſt.</item>
+               <item> 
+                  <list>
+                     <item> 
+                        <list>
+                           <item>
+                              <hi>Carp</hi> a Brewer</item>
+                           <item>
+                              <hi>Denwall</hi> a Joyner</item>
+                        </list>Churchwardens and honeſt Cavaliers,</item>
+                     <item> 
+                        <list>
+                           <item>
+                              <hi>Gooſe</hi> a Carpenter</item>
+                           <item>
+                              <hi>Lellie</hi> a Chandler</item>
+                        </list>two blind Indepen<g ref="char:EOLhyphen"/>dents,</item>
+                  </list>All Enemies to <hi>Noc<g ref="char:EOLhyphen"/>troffe.</hi>
+               </item>
+               <item> 
+                  <list>
+                     <item>
+                        <hi>Light</hi> a Taylor,</item>
+                     <item>
+                        <hi>Forger</hi> an Uſurer</item>
+                  </list>two hot-headed <hi>Presbyters,</hi> and Friends to
+<hi>Noctroffe.</hi>
+               </item>
+               <item>
+                  <hi>Jone, Noctroffs</hi> Maid,</item>
+               <item>Gammar <hi>Trounce</hi> her Mother.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="3" facs="tcp:169366:3"/>THE Presbyterian Laſh, <hi>A
+Tragy-Comedy.</hi>
+         </head>
+         <div n="1" type="scene">
+            <head>Scaena Prima.</head>
+            <stage>Enter <hi>Carp</hi> the Brewer, and <hi>Denwall</hi> the
+Joyner.</stage>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>
+                  <seg rend="decorInit">I</seg>F ever I heard the like, would I might be hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>I proteſt 't will be an eternal ſhame to our Pariſh, that
+ſuch a fel<g ref="char:EOLhyphen"/>low as this ſhould be permitted to live amongſt us, 'tis a
+fine age I'faith when ſuch <hi>Belſwaggers</hi> muſt be ta<g ref="char:EOLhyphen"/>king up
+Wenches Petticoats, We ſhall in time have neither our Wives nor Daughters
+live quietly by them, at leaſt we ſhall hardly get them to Church, for fear
+of their Bumfiddles, if once they hear how Mr. Parſon begins with wenches of
+eighteen.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:169366:4"/>
+               <speaker>Den.</speaker>
+               <p>Pox take him, hee's cunninger at a Girle than we took him
+for—I warrant he thought that the tickling the Wenches buttocks with the
+Rod, would provoke her to Lechery, O they are a company of dry whoremaſters,
+ſtill Sows i'faith; or elſe it may be the poor Whores breech was ſo cold
+that ſhe could not bear it out ſtoutly againſt a bench or bed ſide, and
+therefore he was reſolved to warme it.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Come neighbour, you'l never leave off this waggiſh talk, but
+Prethee what do people report it was for?</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Why truly brother, there are ſo many reports why and wherefore,
+that a man does not know what to make on't: Some ſay that coming home one
+night, after he had been exercizing, or labouring, which you pleaſe, at St.
+<hi>Antholins,</hi> ſweating like a Bull, he calls for his little Sattin Cap,
+to ſhift that on his head, (for though he debominates a what de'e call it,
+three cornered Biſhops cap, yet he can as well be hang'd as preach without
+one) but O miſery, by the carefulneſſe of his Maid <hi>Joan,</hi> the cap
+was fallen into the Embers in the chimney-cor<g ref="char:EOLhyphen"/>ner, which had ſo heated it,
+that what with his afternoons ex<g ref="char:EOLhyphen"/>ercize, and power of the Seacol aſhes, his
+brains were ſo ſet on fire by next morning, that away into
+<hi>Kent-ſtreet</hi> he poſts, buyes me a bundle of birch, comes home,
+calles his maid <hi>Joan</hi> into his cloſet, takes up her coates, and to
+firking he goes by whole<g ref="char:EOLhyphen"/>ſale.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Pox take her for an ignorant Whore, could not ſhee cry out a
+Rape? O that I had been one of the Jury, if he had come to have been
+arraigned.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>I, or I either, I would have taught him how to play at ſlats
+y'faith, or to take up linnen upon truſt, without paying for it.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Paying for't? Nay faith they ſay the poor Wench was paid
+ſoundly: ſhe had little reaſon to ſay ſhe was not paid, he flaw'd her
+ſweetly; but come neighbour, we muſt be ſerious, ſuch ſcandals as
+theſe muſt not be paſt by without taking notice of, while we are
+Church-wardens; I'me ſure we ſhall have Neighbour <hi>Gooſe</hi> the
+Carpenter, and <hi>Lelly</hi> the Chaundler to joyn with us in petitioning for
+his rejection; and though they <pb n="5" facs="tcp:169366:4"/>be Rogues of a worſe ſect
+then he, yet they'l do more towards it than we can, as times goe.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>I cannot endure the ſight of thoſe <hi>Independent</hi>
+Raſcalls, but it's no matter, if they will but ſerve our buſineſſe,
+I'le try how I can bear looking upon them.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Hang them, I care for them for no other end: but 'whiſt, here
+they come.</p>
+            </sp>
+         </div>
+         <div n="2" type="scene">
+            <head>Scaena Secunda.</head>
+            <stage>Enter <hi>Gooſe</hi> and <hi>Lelly.</hi>
+            </stage>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Good morrow neighbours, have you heard what a firker our Parſon
+<hi>Noctroffe</hi> is grown?</p>
+            </sp>
+            <sp>
+               <speaker>Gooſe.</speaker>
+               <p>Yes truly neighbours, we have heard it, and are very much grieved
+that a man who profeſſes himſelf a teacher of the Goſpel is become a
+ſcandall to his profeſ<g ref="char:EOLhyphen"/>ſion, and the Church, contrary to the rule of the
+Apoſtle <hi>Paul</hi> in the—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Nay, Good neighbour <hi>Gooſe,</hi> no canting; We are very
+unſenſible how it is not only contrary to Goſpel, but good Manners to
+take up a Wenches Petticoats, Smock and all; but what ſhall we do to get him
+out? that he may not in time ſerve our wives ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Lell.</speaker>
+               <p>Truly neighbours we ſhall be very free to joyn with you in ſo
+good a work, for I can prove by many Texts of Scripture, that ſcandalous
+teachers are to be rejected: as firſt,—</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p> 
+                  <stage>Enter Light &amp; liſtens.</stage> Nay good Neighbour we
+have no need now of your proofs, but let us looſe no time, but adviſe what
+courſe we ſhall take.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:169366:5"/>
+               <speaker>Lelly.</speaker>
+               <p>Truly I can ſay no more to this, till we have heard the maid her
+ſelf relate what, and how this was brought to paſſe: but my brother and I
+here have ſome other Articles to draw up againſt him, and then we will meet
+again, and ſpeak with the chaſtized and afflicted Damoſell.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Agreed, we will meet you here about half an houre hence.</p>
+               <stage>Exeunt. Manet Light.</stage>
+            </sp>
+         </div>
+         <div n="3" type="scene">
+            <head>Scaena Tertia.</head>
+            <stage>Light, Forger.</stage>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Ha! a fine diſcovery!</p>
+               <p>A flat downright conſpiracy againſt Honeſt Mr.
+<hi>Noctroffe</hi> to turn him out of his living; but who could expect better
+from ſuch a crew as there was met together? a couple of as
+Arch-Profane-Epiſcopal-Antichriſtian-Cavaliers, as any are in
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp; another of
+cunning-ſubtle-ſly-deviliſh-hypocrytical, &amp; Antichriſtian
+Independents too; match me two ſuch couple in all the territories of the
+Whore of <hi>Babylon,</hi> and I'me miſtaken. The firſt he ſticks to
+Popiſh ceremonies, whe<g ref="char:EOLhyphen"/>ther the <hi>Pope</hi> will or no, ſo he is ſure
+of him; but the laſt is meerly drawn in by a Jeſuitical party: Well, let
+people talk what they will of one Antichriſt, I do veri<g ref="char:EOLhyphen"/>ly proteſt and
+believe, that there are two in this very Pariſh; here is ſuch heaving, and
+ſetting one againſt ano<g ref="char:EOLhyphen"/>ther: <hi>Ephraim</hi> againſt
+<hi>Many-aſſes,</hi> and <hi>Many-aſſes</hi> againſt
+<hi>E<g ref="char:EOLhyphen"/>phraim,</hi> and both againſt our <hi>Judah,</hi> or rather our
+<hi>Da<g ref="char:EOLhyphen"/>vid,</hi> honeſt Mr. <hi>Noctroffe:</hi> Well, but I'le e'ne go and
+provide him againſt their aſſault. O but here comes my Neighbour
+<hi>Forger</hi> the Uſurer, wee'le e'ne go toge<g ref="char:EOLhyphen"/>ther.</p>
+               <stage>Enter Forger.</stage>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:5"/>
+               <speaker>For.</speaker>
+               <p>Good morrow Neighbour <hi>Light.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Thank you kind Mr. <hi>Forger:</hi> Oh! I have made the braveſt
+diſcovery to day; here's <hi>Carp</hi> the Brewer, and his
+fellow-Church-Warden, with <hi>Gooſe</hi> and <hi>Lelly,</hi> have been
+conſpiring together to draw up Articles to turn out hodeſt Mr.
+<hi>Noctroff.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <p>Is't poſſible?</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Poſſible! Why I proteſt I over-heard them diſ<g ref="char:EOLhyphen"/>courſe of
+it; but if they turn him out of the Pariſh, they ſhall turn me too; and
+before they ſhall do that, I'le ſpend a brace of hundred pounds, or two
+brace if need be.</p>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <p>And truly neighbour I think you will do very well in it.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Truly Neighbour I'le aſſure you I will not ſee that honeſt
+man wronged; I have bettered by his Teach<g ref="char:EOLhyphen"/>ing many years before he came into
+our Pariſh; and now he is in, he ſhall not go out in haſt if I can help
+it.</p>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <p>No truly Neighbour ſhould he not.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Nor ſhall not Neighbour; I hope one day to be an Elder of his
+Congregation, for all this; Sure thoſe in Power will have more wit then to
+turn him out of his Li<g ref="char:EOLhyphen"/>ving for chaſtizing his Servant. But come neighbour,
+let us tell him what ſnares they have prepared againſt him, that he may
+avoid them.</p>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <p>With all my heart.</p>
+               <stage>Exeunt.</stage>
+            </sp>
+         </div>
+         <div n="4" type="scene">
+            <head>Scoena Quarta.</head>
+            <stage>Enter <hi>Noctroffe</hi> and <hi>Light.</hi>
+            </stage>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>WHy truly Brother <hi>Light</hi> you do a Chriſtian<g ref="char:EOLhyphen"/>like Work
+thus to inform me how, and where the Wicked have pitched their ſnare
+againſt me; but I <pb facs="tcp:169366:6"/>truſt the Lord will deliver me out of their
+pits; however I would win them rather by fair meanes to deſiſt from their
+wicked courſes, then let them perſiſt therein to their own deſtruction.
+Good Brother let me perſwade you to go to them, and deſire to know the
+reaſons of their di<g ref="char:EOLhyphen"/>ſtaſte againſt me.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Sir, 'tis principally about your Maid.</p>
+            </sp>
+            <sp>
+               <speaker>Noc.</speaker>
+               <p>Alas Brother! I hope you think that a man may lawfully chaſtize
+his Servants for their ſouls good; but pray tell them I ſhall be ready to
+ſatisfie them in that or any other point that troubles them.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>I ſhall uſe my utmoſt endeavour to reſtraine them.</p>
+               <stage>Exit.</stage>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>Do good Brother.</p>
+               <l>He's gone, 'tis well; and now I am alone</l>
+               <l>I may with Freedom vent my thoughts. Have I</l>
+               <l>Not many years ſince lived by Deceit,</l>
+               <l>Making the Pulpit and the Word a Cloak</l>
+               <l>To my Deſigns, whilſt not the advance of that,</l>
+               <l>But of my ſelf, have been my chiefeſt aims?</l>
+               <l>And ſhall I now be bafled by a crew,</l>
+               <l>Half <hi>Cavalier,</hi> half <hi>Independent?</hi> Hold,</l>
+               <l>They are but boys in cunning, and too young</l>
+               <l>To drive me from ſo rich, ſo fair a Living,</l>
+               <l>Unleſs't be to a better: Yet I muſt</l>
+               <l>To circumvent them, now abuſe the Faith</l>
+               <l>Of this hot-headed Fellow that adores me,</l>
+               <l>And takes what ere I ſpeak for Oracles—</l>
+               <l>I have ſent him now to talk with my Antagoniſts:</l>
+               <l>Not that I think his words can ere reſtrain</l>
+               <l>Them from their folly; but his Works may do it.</l>
+               <l>For I have thus deſigned it: <hi>Carp</hi> I know</l>
+               <l>Is chollerick and fiery, and by railing</l>
+               <l>Will heat <hi>Lights</hi> brains; ſo that without all doubt</l>
+               <l>Some words will fall to take advantage by,</l>
+               <l>Will make him leave off me, to follow Law:</l>
+               <l>
+                  <pb facs="tcp:169366:6"/>The tother's but a Bladder full of Wind,</l>
+               <l>Can hurt but little, though thrown ne're ſo hard.</l>
+               <l>Thus are the <hi>Cavaliers</hi> diſpoſed; next couple</l>
+               <l>I muſt endeavour both to ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> odds</l>
+               <l>Betwixt themſelves, and with the <hi>Cavaliers;</hi>
+               </l>
+               <l>For I gave <hi>Light</hi> inſtructions to that purpoſe.</l>
+               <l>Then ſpite of Fate and them Ile keep my Living,</l>
+               <l>Laughing when ſome of them may chance to weep,</l>
+               <l>Who to their coſts will pay for their attempting</l>
+               <l>To thruſt out me; ſo Ile deceive the world<g ref="char:punc">▪</g>
+               </l>
+               <l>Since without cheats no Wealth is to be had,</l>
+               <l>But when they thrive, 'tis comfort to be bad.</l>
+               <stage>Exit.</stage>
+            </sp>
+         </div>
+         <div n="5" type="scene">
+            <head>Scoena Quinta.</head>
+            <stage>Enter <hi>Carp, Denwall, Gooſe, Lilly.</hi>
+            </stage>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>WElcome Neighbours, I'me ene very glad to ſee you ſo wel men
+according to your words: What Mr. <hi>Gooſe,</hi> have you brought any thing
+againſt Mr. <hi>Noctroffe,</hi> pray let's ſee.</p>
+            </sp>
+            <sp>
+               <speaker>Gooſe.</speaker>
+               <p>Never fear Sir, we ſhall have that to ſhow againſt him, he
+will hardly claw off in haſt; but will the Maid come hither, that we may hear
+more fully what ſhe can ſay againſt him.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>I, I, ſhe will be bere preſently; but pray when ſhe comes,
+let me have the examination of her, I love ſuch baudy ſtories with all my
+heart.</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>It will better become Mr. <hi>Lelly,</hi> as the moſt elder<g ref="char:EOLhyphen"/>ly
+man.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Faith you ſay right; and I have often heard too, that the
+brothers and ſiſters when they are alone, are ve<g ref="char:EOLhyphen"/>ry expert in baudy
+diſcourſes. But ſee, ſhe and her Mo<g ref="char:EOLhyphen"/>ther <pb facs="tcp:169366:7"/>Gamar
+<hi>Trounce</hi> are come; Well ſay what you will, I will ſhoot my bolt now
+and then, though it be but a fool<g ref="char:EOLhyphen"/>iſh one, yet out it muſt.</p>
+               <stage>Enter Gam. <hi>Trounce</hi> &amp; <hi>Joane.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Lelly.</speaker>
+               <p>You're very welcome good Woman; is this your Daughter, ſhe that
+was ſo unſeemly chaſtiſied by profane <hi>Noctroffe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gam. Trounce.</speaker>
+               <p>I do not know what you mean by ſeem<g ref="char:EOLhyphen"/>ly nor <hi>Chaſtized</hi>
+neither; but this is my Daughter that Mr. <hi>Noctroffe</hi> like a baſe
+ſneaking man as he was, tooke and whipt as though ſhe had been a Dog; Ah,
+and I had been by, I'de have clawd out his eyes, that I would, like an uncivil
+fellow as he was, to go to take up my Girls Pet<g ref="char:EOLhyphen"/>ticoats, and at that age too,
+when ſhe was as able to bear Children as his Mother—</p>
+            </sp>
+            <sp>
+               <speaker>Lelly.</speaker>
+               <p>Peace good Woman, and let your Daughter an<g ref="char:EOLhyphen"/>ſwer for her ſelf.
+Maid, For what Cauſes or Reaſons did he uſe thee ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>Truly ſir he ſaid very little to that purpoſe your Worſhip
+ſpeaks of, but told me he muſt chaſtize me for the good of my ſoul.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Alas poor man—</p>
+               <l>
+                  <hi>And the fit was come on him now, now now,</hi>
+               </l>
+               <l>
+                  <hi>And the fit was come on him now—</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Lelly.</speaker>
+               <p>Hold good Neighbour; but pray Maid, where was it that he performed
+this unſeemly act in the ſight of God and Man.</p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>Oh no Sir, he was too cloſe to do it ſo publikely. Indeed Sir
+he calld me into his private Cloſet, and there by main force uſed me ſo
+ſeemly as your Worſhip ſayes.</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>But did he attempt no farther? Had he not ſome deſign to have
+raviſht thee, and when he could not com<g ref="char:EOLhyphen"/>paſs that, did the other in
+revenge?</p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>Truly your Worſhip ſpeaks very likely, for while he was
+ſtrugling to get up my Coates, he would often thruſt up his hand—I am
+aſhamed to tell you where.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:7"/>
+               <speaker>Car.</speaker>
+               <p>And wert thou ſuch a fool as not to cry out a <hi>Rape.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>O Lord, he ſaid he would whip me to death if I did but cry out,
+or ſqueak—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>A perfect intended Rape I dare proteſt.</p>
+            </sp>
+            <sp>
+               <speaker>Gooſe.</speaker>
+               <p>Truly Neighbour I am of your mind clearly; for firſt, Why
+ſhould he call a Virgin of that age and parts in<g ref="char:EOLhyphen"/>to a privy-houſe?</p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>No ſir, no, it was not in the Houſe of Office, and'<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had, I could have got away from him,
+for theres never a Lock, nor never a Key to that door, but his Cloſet-door
+has a great Lock to it; beſides therts a Bench ſtands ſo
+con<g ref="char:EOLhyphen"/>veniently.—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Alas poor Wench, all things conſpired againſt thy Buttocks
+that day; but prethee did he whip thee with a rod, or clap thee with his
+hand.</p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>Sir, he had a great Birchen Rod as big as a broom almoſt; and
+yet he gave me two or three claps with his hand; but if he had done no more, I
+would ne're have ſpoke on't, that I would not; Ile warrant I had learnt to
+play at clap—from a child.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>A Pox take him for a Letcherons thief, I warrant thou haſt a
+good pair of Buttocks, and he could as well as be hang'd as ſee, and not be a
+feeling too; but did he ſee no far<g ref="char:EOLhyphen"/>ther then thy back-ſide.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>O yes, I tumbled and rould over and over, quite the length of the
+form, but durſt not cry out any other then, O good Maſter, for goodneſs
+ſake—</p>
+            </sp>
+            <sp>
+               <speaker>Gam. <hi>Trounce.</hi>
+               </speaker>
+               <p>Alas poor Girl; no, Ile dare ſay't, I war<g ref="char:EOLhyphen"/>rant thou hadſt not
+been whipt a great while before; I dare ſay Gentlemen, that I have not whipt
+her my ſelf this ten years, and then poor thing, ſhe would cry out the
+prettileſt would do your heart good to hear her; but if I thought Mr.
+<hi>Denwall,</hi> as you ſay, that he pretended to raviſh her, I'de trounce
+him Ile warrant you, for all he is the Parſon of our pariſh—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>How do you know but he might have done it?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:8"/>
+               <speaker>Gam. <hi>Trounce.</hi>
+               </speaker>
+               <p>By my Fackins-law, and I don't know nei<g ref="char:EOLhyphen"/>ther, What ſay you
+<hi>Joan?</hi> Did he—? Speak Wench, if he did, ne're be afraid to tell
+it—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Speak Wench; if he did, thou art not the firſt that ſuch a
+<hi>Belſwagger</hi> has raviſht.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>No truly Sir, I don't know, I can't tell; yet ſome<g ref="char:EOLhyphen"/>times when he
+put his hand between my Thighs to keep me on upon the Form, he tickled me ſo,
+that I think I was al<g ref="char:EOLhyphen"/>moſt raviſht with it.</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>A fine piece of Baudery to be acted by a Parſon, think ye
+Gentlemen. But who comes here? 
+<stage>Enter Light.</stage> Oh! his Friend <hi>Light.</hi> Well,
+good Woman and your Daugh<g ref="char:EOLunhyphen"/>ter, you may go, but I hope you won't fail to
+aſſiſt us in a Courſe at Law with him.</p>
+            </sp>
+            <sp>
+               <speaker>Gam. <hi>Trounce.</hi>
+               </speaker>
+               <p>No I warrant you Sir, he ſhant whip my Daughter for nothing.</p>
+               <stage>Exit. <hi>Gam.</hi> Troùnce &amp; Joan.</stage>
+            </sp>
+         </div>
+         <div n="6" type="scene">
+            <head>Scoena Sexta.</head>
+            <stage>
+               <hi>Light, Carp, Denwall, Lelly</hi> and
+<hi>Gooſe.</hi>
+            </stage>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>WEll, truly Neighbours I am very ſorry to ſee you ſo buſie
+about a thing of nothing, to go and endeavour to turn out an honeſt, pious,
+religious, and pains taking man out of your Pariſh; but he whoſe Cauſe it
+is, will not let you proſper:</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>Thou'rt a pretty fellow to make this a good Cauſe, or call him
+an honeſt or pious man that caſts ſuch ſcandals upon us and the whole
+Pariſh; I grant you he may be a pains taking man; for it ſeems he took
+extraordinary pains with his Maid.</p>
+            </sp>
+            <sp>
+               <speaker>Lelly.</speaker>
+               <p>Truly it was a very filthy, baſe, I will not ſay bau<g ref="char:EOLhyphen"/>dy
+action; (for I would not have ſuch a prophane word in <pb facs="tcp:169366:8"/>mouth): And
+truly I think not to be permitted or tolerated in a Pariſh beſides, there
+are many other things too, we have againſt him, that it's a very
+ſhame—</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Why good neighbour we know how much you are his enemy, but for all
+your ſcandalls and inventions and pretences, he will be found an honeſt
+good man in the end.</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>An honeſt man yes a very honeſt man, a divil ra<g ref="char:EOLhyphen"/>ther or
+worſe then a divil; a meer wolfe clad like a little like a ſheep, though a
+man may eaſiely diſcern him through his gown? one that thinks it ſanctity
+to damne all but his own followers, whom under a ſhow and pretence of
+Pre<g ref="char:EOLhyphen"/>ciſeneſs hee ſeduces, Oh a ſermon of an hour and a half long, with
+a mouth drawne aſide and one eye winkt with<g ref="char:EOLhyphen"/>all (as if he would ſpy among
+his Pariſhioners which is moſt like to be cheated) is a fine Cloake to
+cover a diſembler and to couzen the world in—</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Your a baſe ſcandelous fellow thus to abuſe a Per<g ref="char:EOLhyphen"/>ſon of
+his Coat learning and honeſty,</p>
+            </sp>
+            <sp>
+               <speaker>Deu.</speaker>
+               <p>His coate! what do ye mean neighbour his maids Peticoates he has
+not put them on ſince he took them up, has he?</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>I your e'ne of the ſame Gang a couple of baſe Profane cheating
+rogues and villaines as you are.</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>bear witneſs Neighbour.</p>
+            </sp>
+            <sp>
+               <speaker>Light</speaker>
+               <p>I witneſs what you will I ſay again and again you are a
+profane Cheating rogue and Ile prove you ſo now carp and catch at what you
+will or can</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>I believe I ſhall have ſome Catch-poles for you friend, ere it
+be long: What ſatisfaction can you give me for the defaming my Credit, as you
+have done? But what do I talk to you of ſatisfaction? You have juſt ſuch
+a Con<g ref="char:EOLhyphen"/>ſcience as your Ring leader <hi>Noctroffe;</hi> and his is as hard as
+his Pulpit.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>I, I, go on and talk what you will, you ſhail finde either him
+or me hard enough for you, and both he and his <pb facs="tcp:169366:9"/>Pulpit ſhall
+ſtand in ſpight of your teeths—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Well ſaid Waſp; but now you talk of his Pulpits ſtanding,
+wee'l make him make that he has pull'd down, ſtand again, or wee'l make him
+hold up his hand at the Bar for ſtealing from the Pariſh; They are not
+ſuch fools yet as to let the Pulpit be taken away where they may one day
+ſee an honeſt man ſtand again.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Talk on, talk on; Come neighbours <hi>Gooſe</hi> and
+<hi>Lelly,</hi> you are not ſo profane as theſe two, Churchwar<g ref="char:EOLhyphen"/>dens do you
+call them, they are not fit to bear any of<g ref="char:EOLhyphen"/>fice either in Church or State; they
+have a trick to bring in the Popiſh Biſhops, with their Tippets and
+Surplices, and other Fopperies, and now they would turn out ho<g ref="char:EOLhyphen"/>neſt Mr.
+<hi>Noctroffe</hi> to bring in a Popiſh Prelatical Parſon, as profane as
+themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Lelly.</speaker>
+               <p>Indeed Neighbour, if we thought they had any ſuch intention, we
+would have nothing to do with them, for we would do all for the beſt, and we
+have hopes to bring in one that is an honeſt godly man indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>Come, come Neighbour, take no heed to what he ſays now; he
+ſees he cannot prevail with us to per<g ref="char:EOLhyphen"/>ſiſt from ſeeking Juſtice by
+his Railing and Brawling, he fiddles I know not what into your ears to make you
+fall off from us, but I hope you'l have more wit.</p>
+            </sp>
+            <sp>
+               <speaker>Lelly.</speaker>
+               <p>I, but indeed Neighbour if you intend any ſuch thing as he
+ſays, we cannot in conſcience ſtick to you to turn out a bad to take in a
+worſe.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Come come lets firſt turn him out and then wee'l think of
+diſcommodating the bufineſs as well as we can afterwards.</p>
+            </sp>
+            <sp>
+               <speaker>Gooſe</speaker>
+               <p>I, I, neighbour <hi>Lelly</hi> they ſpeak but reaſon, we
+ſhall not fall out, let him but be out firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Lelly</speaker>
+               <p>Go, go you are fool, but Ile not be fool'd by none of them I wont
+aſſiſt in the turning him out except we may be aſſured that Mr.
+<hi>Simp</hi> may come in.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>I'me glad to ſee this however that though my <pb facs="tcp:169366:9"/>purſe
+is like to pay for my tongue; yet they are ſo fallen out amongſt
+themſelves that they will very heardly do Mr. <hi>Noctroffe</hi> any hurt
+I'le go and acquaint him.</p>
+               <stage>Exit</stage>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>Wel all that I can ſay to it then, is that if you won<g ref="char:EOLhyphen"/>not do it,
+Wee'l do it our ſelves; come Neighbour <hi>Denwall</hi> come.</p>
+               <stage>Exeunt ſeveral ways.</stage>
+            </sp>
+         </div>
+         <div n="7" type="scene">
+            <head>Scaena Septima.</head>
+            <stage>Enter <hi>Noctroffe</hi> ſolus.</stage>
+            <sp>
+               <l>ALthough I am ſo well acquainted with</l>
+               <l>The humors of my preſent enemies,</l>
+               <l>That I can't doubt that all has proſpered juſt</l>
+               <l>As I determined yet I long to Leave it</l>
+               <l>But ſure I am unleſs my Proſelyte, <hi>Light</hi>
+               </l>
+               <l>Or my <hi>Light</hi> proſelyte which you pleaſe to terme
+him</l>
+               <l>Has loſt his common temper, he and Carp</l>
+               <l>As paſſionate a fool almoſt as tother</l>
+               <l>Are Deeply fallen out nor do I fear but ſomething</l>
+               <l>Has hapned in diſcourſe to make a breach</l>
+               <l>Of the grand union which conſpired againſt me</l>
+               <l>My parriſh is divided to my wiſh</l>
+               <l>We all know it is a certain rule</l>
+               <l>Though blemiſhed for the divells invention</l>
+               <l>Devide and raign the truth on't tis I care not</l>
+               <l>Much Whoſe the inventions was but if it ſuite</l>
+               <l>With my deſignes as now it does make uſe oft</l>
+               <l>For howſoere it ſeem abroad to bear</l>
+               <l>A tender conſcience, and to be preciſe</l>
+               <l>In what I do to blind the eyes of people</l>
+               <l>Tis but a cloak to varniſh ore my Policie</l>
+               <l>
+                  <pb facs="tcp:169366:10"/>And do gain credit and eſteem 'ith world</l>
+               <l>Of being pious, holy; thus I have</l>
+               <l>By ſeeming Sanctity gain'd the greateſt part</l>
+               <l>Of my pariſhioners, who are ſo dull-ſighted,</l>
+               <l>They cannot ſee theſe tricks ſerve but my end:</l>
+               <l>Now it muſt be my care for to maintain</l>
+               <l>A fence 'twixt t'other Factions and them,</l>
+               <l>And then 'twixt t'other two, betwixt themſelves.</l>
+               <l>The <hi>Independents</hi> moſt I fear, for they</l>
+               <l>Are many of them cunning too, and know</l>
+               <l>How to diſſemble with the world; but though</l>
+               <l>Their Parſon <hi>Simp</hi> be ſubtile, and a great</l>
+               <l>Huge Maſtive fellow, able to contain</l>
+               <l>Thrice as much cunning as he has; hee'l find</l>
+               <l>A little <hi>David</hi> will be ſtrong enough</l>
+               <l>To cope a great <hi>Goliah:</hi> Tother party</l>
+               <l>Has little danger in them, as the world</l>
+               <l>Goes now; for they'l be ſure to find</l>
+               <l>An oppoſition hoth from him and me.</l>
+               <stage>Enter <hi>Light.</hi>
+               </stage>
+               <p>But here comes <hi>Light:</hi>
+               </p>
+               <p>Neighbour, what news?</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>I have been Sir with your Enemies, and there Mr. <hi>Carp</hi>
+that prophane Fellow uttered ſo many ſcandals a<g ref="char:EOLhyphen"/>gainſt you, that I could
+not refrain my tongue: But I am afraid I have ſpoke ſomewhat will coſt my
+purſe.</p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>O brother, you ſhould learn to bridle your paſſi<g ref="char:EOLhyphen"/>ons.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Indeed Sir I could not, they were ſo high, and had got there
+your Maid and her Mother in Examination, and did ſo rail at you, that it was
+impoſſible for fleſh and blood to hold: So I expect an action every
+minute.</p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>I am ſorry for't, that you ſhould ſuffer for your love to
+me—but who are theſe?</p>
+               <stage>Enter a Serjeant &amp; Yeoman.</stage>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Tis as I told you Sir, they'r Serjeants.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Mr: <hi>Light,</hi> I have an action againſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>At whoſe ſuit Sir?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:10"/>
+               <speaker>Serj.</speaker>
+               <p>At Mr. <hi>Carps.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>What is it Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>An Action Sir, I told you.</p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>But for how much, or for what?</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>An Action of Defamation in a thouſand pounds.</p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>Well Gentlemen, if you'l take my word, Ile engage he ſhall put
+in Bail to your action within this two hours.</p>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>I am content, ſo he pay my fees.</p>
+               <stage>Gives him money.</stage>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>Here they be.</p>
+               <stage>Exit Serjeant and Yeoman</stage>
+            </sp>
+            <sp>
+               <speaker>Serj.</speaker>
+               <p>Farewel Sir, thank you.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>I told you ſo ſir, that this croſs fellow would be upon my
+back ere he ſlept.</p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>Well, it can't be helpt; do you make haſte and put in bail, that
+I forfeit not my word; there's friends enough will be ready to do you ſervice
+upon my deſire; <hi>Forger</hi> will be ſure to be one.</p>
+            </sp>
+            <sp>
+               <speaker>Light.</speaker>
+               <p>I doubt not but he will ſir; farewell.</p>
+               <stage>Exit.</stage>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>Adieu—</p>
+               <l>How are my plots now proſperous beyond hope</l>
+               <l>Or thought! but I muſt now contrive a way,</l>
+               <l>That they may end as they have well begun;</l>
+               <l>I have it: Bleſſed brains! it ſhall be thus.</l>
+               <l>Now I have ſet theſe two at enmity;</l>
+               <l>The way to make me friends with <hi>Carp,</hi> will be</l>
+               <l>To make him friends with <hi>Light;</hi> and ſo will both</l>
+               <l>Be friends to me, and the deſigns againſt me—</l>
+               <l>Vaniſh like ſmoake; and their devices ſet</l>
+               <l>To turn me from my living, make me more</l>
+               <l>Secure and firm in it, then ere before.</l>
+               <l>But ſlay, did not <hi>Light</hi> ſay that they had got</l>
+               <l>My Maid and her old doting Mother <hi>Trounce</hi>
+               </l>
+               <l>Under examination? there may come</l>
+               <l>At leaſt diſgrace, if not worſe ill by that:</l>
+               <l>I muſt prevent them here, leſt they ſhould take</l>
+               <l>Her Oath before a Juſtice, elſe'tis vain:</l>
+               <l>The old man ows me money; him Ile threat</l>
+               <l>
+                  <pb facs="tcp:169366:11"/>To ſend to Priſon, if they do not force</l>
+               <l>Their Daughter to deny whatere ſhe has ſaid:</l>
+               <l>This, with ſome preſent money added, does't.</l>
+               <l>But will my Conſcience then permit me give</l>
+               <l>A bribe againſt the truth? it muſt not be.</l>
+               <l>Tuſh! Conſcience! theres a fair and a rich Living</l>
+               <l>That lyes in competition; com't muſt be</l>
+               <l>Ne're more diſpute it; Ile ſend for the Maid</l>
+               <l>To come here to me with her Mother; and</l>
+               <l>I know how eaſily to work upon them.</l>
+               <l>What wonder will it ſeem, I pray, if I</l>
+               <l>That can diſſemble ſo, teach others lye.</l>
+               <stage>Exit.</stage>
+            </sp>
+         </div>
+         <div n="8" type="scene">
+            <head>Scoena Octava.</head>
+            <stage>Enter <hi>Carp</hi> and <hi>Denwall</hi> in a Tavern.</stage>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>ILE teach the Rogue another time how to uſe his tongue—a
+Schiſmatical, Puritanical Whelp, to tel me to my face that I was a cheating
+Rogue and hee'd prove me ſo! Ile prove what ſtrength his purſe has now,
+before I leave him; he has put in bail to my Action.</p>
+               <p>Here Drawer, ſome Wine.</p>
+               <stage>Enttr Drawer.</stage>
+            </sp>
+            <sp>
+               <speaker>Draw.</speaker>
+               <p>You ſhall have the beſt ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Who are his bail, can you tell.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Why, his crop-car'd brother <hi>Forger</hi> is one, that old
+uſuring Cur, that has the Conſcience to take ten in the hundred, and a gift
+beſides for the loan of his money; a fel<g ref="char:EOLhyphen"/>low that's as ſlow and dull of his
+tongue, as the other is quick.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>I, I know him well enough; but a pox, nothing vexes me, but that
+thoſe two non-ſenſical Papples ſhould fall off ſo, when we had
+almoſt brought our buſineſs to an end: Oh I would fain have had the
+little <hi>David</hi> been ſer<g ref="char:EOLhyphen"/>ved as he ſerved his Maid.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:11"/>
+               <speaker>Car.</speaker>
+               <p>How?</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Why whipt a little, whipt ſoundly about the pig<g ref="char:EOLhyphen"/>market or at a
+horſes tail; O that I had had the jerking of him Ide have claw'd his Buttocks
+for him; and then I would have had him branded with a <hi>W.</hi> in his
+fore-head that all the world might take Notice of the Whiper</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p> 
+                  <stage>Enter drawer with wine</stage> Faith Neighbour I have often
+heard of <hi>the Presbyterian Laſh,</hi> but never knew the meaning of it
+till now, come Neighbour to you. 
+<stage>Drinks</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>To you again 
+<stage>Drinks</stage>
+               </p>
+               <p> 
+                  <hi>Laſh</hi> do you call it; had the poor Wench found out
+another ſwaſh to couple with her ſhe might have deſerved the laſh;
+but the poor wench—</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Come Neighbour now we are merry lets hear that Song, thou
+ſing'ſt well I'me ſure, and for a baudy Song theres none ith City like
+thee.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Why then have at it; but firſt lets drink, as the Threſh<g ref="char:EOLhyphen"/>er
+ſaid to his man. 
+<stage>Drinks.</stage>
+               </p>
+            </sp>
+            <sp>
+               <lg type="song">
+                  <head>SONG.</head>
+                  <lg>
+                     <l>ALl Chriſtians and Lay-Elders too</l>
+                     <l>for ſhame amend your lives,</l>
+                     <l>I'le tell you of a Dog-trick now,</l>
+                     <l>which much concerns your wives.</l>
+                     <l>An Elders Maid near Temple-Bar,</l>
+                     <l>(ah what a Quean was ſhe!)</l>
+                     <l>Did take an ugly Maſtive Curre</l>
+                     <l>where Chriſtians uſe to be.</l>
+                     <l>
+                        <hi>Help Houſe of Commons, Houſe of Peers,</hi>
+                     </l>
+                     <l>
+                        <hi>oh now or never help!</hi>
+                     </l>
+                     <l>
+                        <hi>Th'</hi> Aſſembly <hi>having ſate four
+years</hi>
+                     </l>
+                     <l>
+                        <hi>have now brought forth a whelp.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>2 One Evening late ſhe ſtept aſide,</l>
+                     <l>pretending to fetch Eggs,</l>
+                     <l>And there ſhe made her ſelf a Bride</l>
+                     <l>to one that had four legs.</l>
+                     <l>Her Maſter heard a rumblement,</l>
+                     <l>and wander'd ſhe did tarry,</l>
+                     <l>Not dreaming (without his conſent)</l>
+                     <l>his Dog would ever marry.</l>
+                     <l>
+                        <hi>Hole Houſe of Commons, &amp;.c</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>3: He went to peep, but was afraid,</l>
+                     <l>and haſtily did run</l>
+                     <l>To fetch a ſtaff to help his Maid,</l>
+                     <l>not knowing what was doue;</l>
+                     <l>He took his Ruling-Elders Cane,</l>
+                     <l>and cry'd out help, help here!</l>
+                     <l>For <hi>Swaſh</hi> our Maſtive, and poor <hi>Jane</hi>
+                     </l>
+                     <l>are now Fight Dog, fight Bear.</l>
+                     <l>
+                        <hi>Oh houſe of Commons,</hi> &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>4. But when he came, he was ful ſorry,</l>
+                     <l>for he perceived their ſtrife,</l>
+                     <l>
+                        <pb facs="tcp:169366:12"/>That according to the <hi>Directory,</hi>
+                     </l>
+                     <l>they two were Dog and VVife:</l>
+                     <l>Ah (then ſaid he) thou cruel quean,</l>
+                     <l>why haſt thou me beguil'd</l>
+                     <l>I wonder'd <hi>Swaſh</hi> was grown ſo lean</l>
+                     <l>poor Dog he's almoſt ſpoil'd.</l>
+                     <l>
+                        <hi>Oh houſe of Commons, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>5. I thought thou hadſt no carnal ſenſe</l>
+                     <l>but whats in other Daſſes,</l>
+                     <l>And could have quencht by cupiſcence</l>
+                     <l>according to the <hi>Claſſes;</hi>
+                     </l>
+                     <l>But all the Pariſh ſee it plain,</l>
+                     <l>ſince thou art in this pickle,</l>
+                     <l>Thou art <hi>an Independent</hi> quean,</l>
+                     <l>and lov'ſt a <hi>Conventicle.</hi>
+                     </l>
+                     <l>
+                        <hi>Oh houſe of Commons, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>6. Alas now each Malignant Rogue</l>
+                     <l>will all the world perſwade,</l>
+                     <l>Tha ſhe that's Spouſe unto a Dog,</l>
+                     <l>may be an Elders Maid;</l>
+                     <l>They'l jeer us if abroad we ſtir,</l>
+                     <l>Good Maſter Elder ſtay,</l>
+                     <l>Sir, of what <hi>Claſs is</hi> is your Cur?</l>
+                     <l>and then what can we ſay?</l>
+                     <l>
+                        <hi>Oh houſe of Commons,</hi> &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>7. They'll many graceleſs Ballads ſing</l>
+                     <l>of a <hi>Presbyterian,</hi>
+                     </l>
+                     <l>That a Lay Elder is a thing</l>
+                     <l>made up half-Dog half-Man:</l>
+                     <l>Out, out, (ſaid he &amp; ſmote her down)</l>
+                     <l>was mankind grown ſo ſcant?</l>
+                     <l>There's ſcarce another Dog in town</l>
+                     <l>had took the Covenant,</l>
+                     <l>
+                        <hi>Oh houſe of Commons,</hi> &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>8 Then <hi>Swalh</hi> began to look ſull grim,</l>
+                     <l>and <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ane</hi>
+did thus reply,</l>
+                     <l>Sir, you thought nought too good for him,</l>
+                     <l>you ſed your Dog ſo high:</l>
+                     <l>Tis true, he took me in the lurch,</l>
+                     <l>and leapt into my arm,</l>
+                     <l>But (as I hope to come to Church)</l>
+                     <l>I did your Dog no harm.</l>
+                     <l>
+                        <hi>Oh houſe of Commons, &amp;c:</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>9 Then ſhe was brought to <hi>Newgate-Gaol,</hi>
+                     </l>
+                     <l>and there was naked ſtript,</l>
+                     <l>They whipt her till the Cord did fail,</l>
+                     <l>as dog uſe to be whipt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Poor City Maids ſhed many a tear</l>
+                     <l>when ſhe was laſh'd and bang'd,</l>
+                     <l>And had ſhe been a Cavalier,</l>
+                     <l>ſurely ſhe had been hanged.</l>
+                     <l>
+                        <hi>Oh Houſe of Commons,</hi> &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>10. Hers was but <hi>Fornication</hi> ſound,</l>
+                     <l>for which ſhe felt the laſh,</l>
+                     <l>But his was <hi>Buggery</hi> preſum'd,</l>
+                     <l>therefore they hauged <hi>Swaſh.</hi>
+                     </l>
+                     <l>VVhat will become of <hi>Biſhops</hi> then,</l>
+                     <l>or <hi>Independency,</hi>
+                     </l>
+                     <l>For now we find both Dogs and Men,</l>
+                     <l>ſtand for <hi>Presbytery.</hi>
+                     </l>
+                     <l>
+                        <hi>Oh Houſe of Commons,</hi> &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>11. She might have took a Sow-gelder,</l>
+                     <l>with Synod men good ſtore,</l>
+                     <l>Ent ſhe would have a Lay-Elder</l>
+                     <l>with two legs, and two more.</l>
+                     <l>Go tell the <hi>Aſſembly</hi> of Divines,</l>
+                     <l>tell <hi>Adoniram Blew,</hi>
+                     </l>
+                     <l>Tell <hi>Burgeſs, Marſhal, Caſe &amp; Vines,</hi>
+                     </l>
+                     <l>tell <hi>Now-and-Anon too.</hi>
+                     </l>
+                     <l>
+                        <hi>Oh Houſe of Commons,</hi> &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>12 Some ſaid ſhe was a Scotiſh Girl,</l>
+                     <l>or elſe (at leaſt) a witch,</l>
+                     <l>But ſhe was born in <hi>Colcheſter,</hi>
+                     </l>
+                     <l>was ever ſuch a Bitch!</l>
+                     <l>Take heed all Chriſtian Virgins now,</l>
+                     <l>the <hi>Dog-ſtar</hi> now prevails;</l>
+                     <l>Ladyes beware your Monkeys too,</l>
+                     <l>for Monkeys have long tails.</l>
+                     <l>
+                        <hi>Oh Houſe of Commons</hi> &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>13. Eleſs <hi>King</hi> and <hi>Queen,</hi> &amp; ſend us
+peace,</l>
+                     <l>as we had ſeven years ſince,</l>
+                     <l>For we remember no Dog-days Girls,</l>
+                     <l>while we enjoy'd our Prince</l>
+                     <l>Bleſs ſweet Prince <hi>Char.</hi> 2 Dukes, 3. Earls,</l>
+                     <l>O ſave his Majeſty!</l>
+                     <l>Grant that his Commons, Lords and</l>
+                     <l>may lead ſuchlives as He.</l>
+                     <l>
+                        <hi>Oh houſe of Commons,</hi> &amp;c.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:12"/>
+               <speaker>Carp.</speaker>
+               <p>Excellently well performed ifaith; O how I love to hear theſe
+Preciſe, Puritanical rogues jear'd, but faith all this, while we ne're think
+of drawing in our brace of inde<g ref="char:EOLhyphen"/>pendants again.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Hang them, tis but Colloguing again and makeing them beleive that
+when hee's out there logger headed Sim<g ref="char:EOLhyphen"/>pleton ſhall come in, and they'l be as
+ready to join with as—I dont know what</p>
+            </sp>
+            <sp>
+               <speaker>Cap.</speaker>
+               <p>Let us then go about it, or at leaſt go you to <hi>Gooſe,</hi>
+he ſeems the moſt yeilding, whilſt I go fee my attour ney to de<g ref="char:EOLhyphen"/>clare
+next court day againſt my peeviſh pricklouſe adverſa<g ref="char:EOLhyphen"/>ry
+<hi>Light.</hi>
+               </p>
+               <stage>Exeunt</stage>
+            </sp>
+         </div>
+         <div n="9" type="scene">
+            <head>Scena Nona.</head>
+            <stage>Gamer Trounce Solus—</stage>
+            <sp>
+               <p>VEry well, very well, now he has abuſed my Daughter and turned
+up her Petticoates and paid her buttockes for her, I muſt be ſent for to
+make her hold her tongue, by my fackens law I had as full a diſſolution to
+have made him have ſmok't fort as ever I had ſince my live-long day. Nay
+and't had not been for the fear of my poor Gaffers going into jayle, I ſhould
+ha made him remember how he meddles with wenches Bums as long as he had a day
+to live, but he heares that I and my Daughter had been in <hi>Cora nobus,</hi>
+with Mr. Church-Warden his worſhipe; and ſome other grave tradeſmen of
+the pariſh, and whip ſay's he and imediately ſends for me and my
+daughter, but by my nickins my poor Girle was affraid to go, and I can't
+forewarne her for it; ſhe had ſo lately been Clapperd-clawd by him, that
+and I were as She, ide ne're come there more, by theſe ten bones, and that's
+a great oath, he had ſo flawg'd her, that for two days ſhe was hardly able
+to ſit on her britch, I was fain to ſend <pb facs="tcp:169366:13"/>to my neighboure
+Gamer Spindles to borrow her down pil<g ref="char:EOLhyphen"/>lar for to ſit her upon, but by my
+truth law he ſhould ne<g ref="char:EOLhyphen"/>ver have diſwaded me, to put it up, if he had not
+given me this money too, 
+<stage>ſhowes a bag of money</stage> my Gaffer ſhould ene have
+gone to priſon though I had work't day and night upon my bare knees for him,
+rather then my girl ſhould have been ſo uſed; but I muſt go home and
+deſtruct her as Mr. <hi>Parſon</hi> ſay's what ſhe muſt ſay if they
+ſhould come again, but twill be a hard caſe if ſhe ſhould be Put to her
+Oath—to have her forſwear her ſelf; but if he does Mr.
+<hi>Parſon</hi>—has promiſ<g ref="char:EOLhyphen"/>ed heel give her—I dont know, what
+d'ee call it—Hem—tis a very hard word—hem—oh!
+con<g ref="char:EOLhyphen"/>ſolation, conſolation—I hope he means more mony by it.</p>
+            </sp>
+            <stage>Enter Carp</stage>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Gamar <hi>Trounce</hi> Gamer <hi>Trounce</hi> 
+                  <stage>ſhe offers to go out—</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gam. <hi>Trounce.</hi>
+               </speaker>
+               <p>Whoſe that calls? oh 
+<stage>Offers to go out again</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Carp:</speaker>
+               <p>Why Gamer <hi>Trounce</hi> come heither I ſay</p>
+            </sp>
+            <sp>
+               <speaker>Gamer. <hi>Tro.</hi>
+               </speaker>
+               <p>Well now muſt I deny all—Oh Mr: <hi>Carp</hi> how do you
+do? truly I heard ſome body call, but I could not tell where it
+was—</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Well what do you intend to do about your daugh<g ref="char:EOLhyphen"/>ters
+buſineſs—when ſhall we take her oath before a juſtice</p>
+            </sp>
+            <sp>
+               <speaker>Gamer <hi>Tro.</hi>
+               </speaker>
+               <p>Her oath, pray Mr. <hi>Church-Warden</hi> for what?</p>
+            </sp>
+            <sp>
+               <speaker>Carp</speaker>
+               <p>For what why about Mr <hi>Nocttroffs</hi> whiping her</p>
+            </sp>
+            <sp>
+               <speaker>Gamer <hi>Tro.</hi>
+               </speaker>
+               <p>Indeed Sir. I do not know what you mean by my faith law, nor I
+beleive my daughter neither</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Why was not thou before me and my brother and ſome others
+<hi>Church-Wardens</hi> obout it this morning.</p>
+            </sp>
+            <sp>
+               <speaker>Gamer. <hi>Tro.</hi>
+               </speaker>
+               <p>I dont know indeed Sir. I can tell nothing of it—fare you
+well to your worſhip—</p>
+               <stage>Exit</stage>
+            </sp>
+            <sp>
+               <speaker>Carp</speaker>
+               <p>I think in my ſoul the Womans mad; what a devill ails ſhe? o
+here has been fine Juggling, I finde it now—</p>
+            </sp>
+            <sp>
+               <speaker>Serje.</speaker>
+               <p>Your ſervant Mr. <hi>Carp</hi>—</p>
+               <stage>Enter Serjeant and Yeo.</stage>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>O how doſt do friend? thou didſt Mr <hi>Lights</hi>
+buſineſs to day.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:13"/>
+               <speaker>Serje.</speaker>
+               <p>I Sir, and now I have an Action againſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>An action againſt me at whoſe ſuit.</p>
+            </sp>
+            <sp>
+               <speaker>Serje.</speaker>
+               <p>At Mr. <hi>Noctroffe</hi> the Parſons ſuit, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Ha! ſaiſt thou ſo; well? here thy fees I'le put thee in
+baile before night.</p>
+            </sp>
+            <sp>
+               <speaker>Serje.</speaker>
+               <p>I Sir I dare truſt you, farewell Sir</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Godbye</p>
+               <p>So now we ſhall have fine work indeed, the truth on't is I
+ſpoke as much againſt the Parſon, as <hi>Light</hi> did againſt me wel
+its no matter: I ſee ſcores wil be quit one time or other, well I muſt be
+content, I'le go put in my bail—but theſe are ſuch envious fellows
+that I could in my heart wiſh all things were undone again.</p>
+               <stage>Exit—</stage>
+            </sp>
+         </div>
+         <div n="10" type="scene">
+            <head>Scena Decima.</head>
+            <stage>Enter Noctroffe, Solus.</stage>
+            <sp>
+               <lg>
+                  <l>HA, ha, ha, ha, ha,—</l>
+                  <l>how could I ſplit my lungs with laughing now</l>
+                  <l>To ſee how things ſtrive to content me!</l>
+                  <l>Fortune I could adore thee for a Goddeſs—</l>
+                  <l>With all my heart; I could turn heathen now</l>
+                  <l>Iſt were but for an hour to Worſhip thee,</l>
+                  <l>What fools are theſe that ſay thou favoureſt fools</l>
+                  <l>It is the bold Audacious fortune helps;</l>
+                  <l>Or in plain text a knave, Thats ſuch as I—</l>
+                  <l>Some fool perhaps now might have been amazed,</l>
+                  <l>Befoted, ſtupied, to hear of ſuch plots;</l>
+                  <l>Contrivances againſt him would have frighted</l>
+                  <l>His ſoul to nothing, and have made him yeild</l>
+                  <l>Himſelf to th' mercy of his Enemies</l>
+                  <l>But I was never ſuch an aſſe, my heatr</l>
+                  <l>Rich in Deciets; hung round about with cuning</l>
+                  <l>
+                     <pb facs="tcp:169366:14"/>Was made to fool but never to be fool'd.</l>
+                  <l>How neatly have I guld my adverſaries</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Carp's</hi> now arreſted at my Suit for ſlander</l>
+                  <l>And had been ſo before, had I before</l>
+                  <l>but heard what words he ſpake; now I that thought</l>
+                  <l>To have ſent to him to reconcile all griefs,</l>
+                  <l>Will make him come to me—and make him pay too;</l>
+                  <l>Yet when that's done, to make the world beleive</l>
+                  <l>I'me ſtil a pure and undefiled Saint,</l>
+                  <l>Ile out of ſeeming charity return</l>
+                  <l>Part of the money, that I gain by law,</l>
+                  <l>Unto his wife, ſo J gain her; and 'tis</l>
+                  <l>A general Rule, when once the wife is got,</l>
+                  <l>That ten to one the Husband follows too.</l>
+                  <l>O bleſſed Genius! how doſt thou induce me</l>
+                  <l>To undo them who late ſtrove to undo me!</l>
+               </lg>
+               <stage>Exit.</stage>
+            </sp>
+         </div>
+         <div n="11" type="scene">
+            <head>Scoena undecima.</head>
+            <stage>Enter a Lawyers Clark with Papers.</stage>
+            <sp>
+               <p>Here in a ſhort <hi>Epitomy, Epitomy</hi> do J call it! rather a
+Volume of the Quarrels, Diſſentions, Diſtractions, Con<g ref="char:EOLhyphen"/>fuſions, betwixt
+a Pariſh-prieſt and his Pariſhioners; what fool, or aſs, or idiot, or
+non-ſenſical Coxcomb muſt he needs be, that cannot plainly perceive,
+diſcern and ſee, that the Shepherd has ſet his Flock together by the
+ears. <hi>Imprimis,</hi> here is one <hi>Light,</hi> a light-headed fellow
+with<g ref="char:EOLhyphen"/>out doubt, ſet on by the Parſon, is ſued for abuſing one of his
+pariſhioners, named <hi>Carp;</hi> and yet the Carping Coxcomb muſt needs
+call the <hi>Parſon, Jeſuitical Prieſt;</hi> ſo he is ſued by him,
+whilſt the Prieſt laughs in his ſleeve at both, and my Maſter laughs at
+all; for whoever is a looſer, <pb facs="tcp:169366:14"/>he is ſure to be a gainer. Well,
+tis a fine ſtory; yet me<g ref="char:EOLhyphen"/>thinks the Jury were but non-ſenſical fooles,
+for they have fined Mr. <hi>Light</hi> too light a ſum in my mind, when poor
+<hi>Carp</hi> is forced to pay one hundred pound for ſpeak<g ref="char:EOLhyphen"/>ing the truth, the
+whole truth, &amp; nothing but the truth; for my young Reaſon can eaſily
+gueſs, That theres no<g ref="char:EOLhyphen"/>thing that ſavours more of <hi>Jeſuitical</hi>
+tenents, then to ſet men together by the ears; but J think the Devil reigns
+in this age; theſe black-coats without their Gowns or Tip<g ref="char:EOLhyphen"/>pets, look ſo
+like imps, that J know not what to make of them otherwiſe—but J think
+my Maſter calls me—Well, J muſt ene go draw up a Judgement againſt
+honeſt <hi>Carp,</hi> for being a plain, down-right dealing fellow: Tis a
+ſad age methinks my maſters; but how to help it, faith, is be<g ref="char:EOLhyphen"/>yond my skll
+to tell you.</p>
+               <stage>Exit.</stage>
+            </sp>
+         </div>
+         <div n="12" type="scene">
+            <head>Scoena Quodecima.</head>
+            <stage>Enter <hi>Carp</hi> and <hi>Denwall.</hi>
+            </stage>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>WAs ever man ſo abuſed, Neighbour, as I am? I proteſt I care
+not ſo much for the Mo<g ref="char:EOLhyphen"/>ney, but that the Law ſhould be ſo retort<g ref="char:EOLhyphen"/>ed as it
+is now-a-dayes; That <hi>Light</hi> for defaming me, and utterly taking away my
+credit in the World, ſhould be fi<g ref="char:EOLhyphen"/>ned but twenty pound, and that they
+ſhould ſet me at one hundred pound only for calling that baſe,
+ſeditious, ſcanda<g ref="char:EOLhyphen"/>lous fellow as he is—Well tis a hard
+caſe—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Tis ſo indeed Neighbour, but we can't tell how to help it: Now a
+man had as good be hang'd as meddle with theſe black Cloaks, they have ſuch
+tricks and ſuch quiliets, ſuch ſtrange Quonundrums to cheat a man of his
+money, as it paſſes—</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:15"/>
+               <speaker>Carp.</speaker>
+               <p>A pox of their Quillets and their Quonund rum s I'me ſure I'me
+like to pay for't; but what ſhall I do now? canſt adviſe me to be even
+with him.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Why faith, if you have a mind to be even with him, you muſt even
+pay him the money that is adjudged him, and have a care how you meddle with him
+any more, till times mend; and then if you can whip and trounce him ſoundly,
+you'l do very good ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>But what way ſhall I take to ſend him his money:</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Why e'ne ſend it him, and make no more word on't; that is,
+ſend him fourſcore pounds, and conſign over the twenty pounds that is
+adjudged you from <hi>Light;</hi> that is, ſend him fourſcore pound ready
+told, and put it to account for ſearching too far into the whipping of a
+Wench.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>A pox of him and his Wench, would hee'd clawd her buttocks to the
+bone, ſo I had never medled with her: I'me ſure I muſt pay ſweetly for
+the cure of her breech: Yet nothing more vexes me, then that the damnd Whore
+her Mother ſhould afterwards deny whatever both ſhe and her daughter ſaid
+to us: O there went ſome of the money that I muſt now pay efaith.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>But was the Devil ſo impudent as to deny it?</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>Was ſhe! ſhe told me flat and plain as I met her juſt coming
+out of the Parſons—that neither ſhe nor her Daughter knew any thing
+of it?</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>O impudent Jade?</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>VVell, but come Neighbour, tis in vain now to di<g ref="char:EOLhyphen"/>ſpute; I muſt
+e'ne now think of ſending the dogged Rogue his money; but what wouldſt
+ſay if the ſcoundrel ſhould turn pretty honeſt, and ſend it back
+again.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>VVhat would I ſay! why I would e'ne have it regi<g ref="char:EOLhyphen"/>ſtred for a
+Miracle, and him canonized for the onely Saint that ever was, or I believe ever
+will be of his Faction; but I think you need never fear that ſuch a good act
+will proceed from one of that crooked and perverſe Generation.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:15"/>
+               <speaker>Car.</speaker>
+               <p>Nay, faith I'me of thy mind; but if he does not ſend back
+ſome, Ile e'ne ſwear he's as very a Devil as he would be a Saint ſhould
+he ſend back all. But come, Ile entreat thee to carry him his money which
+lyes ready in the Bag dormant, before an Execution be ſerved, which is the
+next thing I muſt expect.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>You may be ſure of it; therefore make what haſte you can with
+it.</p>
+            </sp>
+            <sp>
+               <speaker>Car.</speaker>
+               <p>I'me ready, though it be but with an ill will, God knows; come
+let's go.</p>
+               <stage>Exeunt.</stage>
+            </sp>
+         </div>
+         <div n="13" type="scene">
+            <head>Scoena decima tertia.</head>
+            <stage>Enter <hi>Gooſe</hi> and <hi>Lelly.</hi>
+            </stage>
+            <sp>
+               <speaker>Gooſe.</speaker>
+               <p>TRuly Neighbour here has been ſtrange doings, fine going to Law,
+and quarrelling among our ſelves; I thought what it would come too, when we
+firſt began to fall out with the Church-Wardens; I thought I ſay, then,
+that we ſhould do nothing againſt <hi>Noctroff,</hi> but for him.</p>
+            </sp>
+            <sp>
+               <speaker>Lelly.</speaker>
+               <p>Indeed brother <hi>Gooſe,</hi> if I had thought things would
+have been carryed as they have been, I would ne<g ref="char:EOLhyphen"/>ver have ſtood out; but
+ſince 'tis ſo, we muſt ene be con<g ref="char:EOLhyphen"/>tent, and ſeemingly give our hands to
+the Reconciliation till another opportunity ſerve: 
+<stage>Enter <hi>Carp</hi> &amp; <hi>Denwall.</hi>
+                  </stage> But here
+comes the two Church-Wardens. Neighbours, what news?</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Why I ſuppoſe you know the News; now <hi>Noctroff,</hi> has
+broke our heads, hee'l give us plaiſters; now he has ſet us all together by
+the ears, hee'l make us friends a<g ref="char:EOLhyphen"/>gain; but the beſt for him is, 'twill be at
+my coſt; and Ile aſſure you Gentlemen, I think I have ſome reaſon to
+bid <pb facs="tcp:169366:16"/>you welcome to this feaſt, for my money will pay for it.</p>
+            </sp>
+            <sp>
+               <speaker>Gooſe.</speaker>
+               <p>Truly Neighbour I'me ſorry it ſhould be ſo; but it is your
+own fault.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>My fault! A pox take you and your fellow-ſchiſ<g ref="char:EOLhyphen"/>matick there;
+'twas your faults marry was it; and if—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>Nay Brother, now we are come to be friends, let us ene be friends;
+there has been cavilling enough alrea<g ref="char:EOLhyphen"/>dy—methinks we need no more.</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>I, but when they go about to juſtifie—</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>You will be talking till there come ſome miſchief on't; come
+prethee be mild, and direct your paſſions, elſe what a condition will you
+be in to make friends!</p>
+            </sp>
+            <stage>Enter <hi>Noctroff, Light, Forger.</hi>
+            </stage>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>Good morrow neighbours all:</p>
+               <p>How fares it with you neighbour <hi>Carp?</hi> come let you and I
+ſhake hands, and forget all former paſſages between us; come neighbour
+<hi>Light,</hi> be you friends too All ſhake hands Gentlemen. 
+<stage>They ſhake hands interchangea<g ref="char:EOLhyphen"/>ably.</stage>
+               </p>
+               <p>Why ſo; is it not better for Pariſhioners like Brethren to
+live in Chriſtian charity, then To be in continual debate and ſtrife one
+amongſt another?</p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Whoſe fault was't?</p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>Nay neighbour, that ripping up of old ſores, wil make us ſtill
+have a ſpleen one againſt another; let's for<g ref="char:EOLhyphen"/>get all that's paſt, and be
+as good friends as ever we were.</p>
+            </sp>
+            <sp>
+               <speaker>Den.</speaker>
+               <p>That's rank Enemies I dare be ſworn; for <hi>Carp</hi> and I
+were always ſo to thee. 
+<stage>Aſide.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Carp.</speaker>
+               <p>Well Sir, I will be ſo, and now thank you for the twenty pounds
+you returned my Wife.</p>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <p>Never mention it; but neighbour <hi>Forger,</hi> you ſtand in a
+corner as if you were at enmity with every bo<g ref="char:EOLhyphen"/>dy ſtill.</p>
+            </sp>
+            <sp>
+               <speaker>Forg.</speaker>
+               <p>Who, I! no indeed Sir, I never fell out with a<g ref="char:EOLhyphen"/>ny of them, and
+therefore I cannot be indemnity to them.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169366:16"/>
+               <speaker>Noct.</speaker>
+               <p>Well neighbours, it rejoices my heart to ſee thi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our reconciliation. I have provided a
+Chine of Beef, or ſo, here at the <hi>Pye</hi> at <hi>Aldgate,</hi> that now
+we are friends, we may eat together like friends, and I hope we ſhall
+conti<g ref="char:EOLhyphen"/>nue friends. Pray neighbours walk in, and Ile wait upon you
+inſtantly.</p>
+               <stage>Exeunt all but <hi>Noctroff.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Noct.</speaker>
+               <l>And was not here a pretty crew of Coxcombs?</l>
+               <l>Dull ſottiſh fellows, that ſcarce yet perceive</l>
+               <l>That my ſole wit has brought theſe things about,</l>
+               <l>And contrived every minutes circumſtance.</l>
+               <l>How do I glory in my ſelf, and ſhrug,</l>
+               <l>To think how cloſe, how cunning my deceits are?</l>
+               <l>How under the pure vail of Sanctity,</l>
+               <l>I cozen men, yet they believe me holy.</l>
+               <l>But what are theſe deſigns? piſh, weak and ſmall,</l>
+               <l>Fooling theſe fellows does but firm me here,</l>
+               <l>And not at all advance me; he that once</l>
+               <l>Has raiſed himſelf up in the world from nothing,</l>
+               <l>To appear ſomething, if he does ſtay there,</l>
+               <l>Js but a blockiſh Coxcomb; my ambition</l>
+               <l>Soars higher yet; and one deceit that thrives</l>
+               <l>Prompts me to work another; nor ſhall any,</l>
+               <l>Though ne're ſo wicked, ſcape me, ſo it may</l>
+               <l>But either fill my purſe, or raiſe me up</l>
+               <l>In popular eſteem; for that's the thing:</l>
+               <l>Such whoſe lay-plots to mount as high as J,</l>
+               <l>Muſt chiefly aim, and in this J have</l>
+               <l>So well improv'd my time, that J may hope,</l>
+               <l>Jf things ſucceed, to prove an <hi>Engliſh Pope.</hi>
+               </l>
+               <stage>Exit.</stage>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb facs="tcp:169366:17"/>
+            <head>An EPILOG<g ref="char:V">Ʋ</g>E.</head>
+            <sp>
+               <lg>
+                  <l>WE'le follow not the common courſe, to ſay,</l>
+                  <l>
+                     <hi>Courteous Spectarors, how d'ye like this Play?</hi>
+                  </l>
+                  <l>Wee'l beg no <hi>Plaudites,</hi> nor deſire you</l>
+                  <l>To clap your hands: Then what d'ye think wee'l do?</l>
+                  <l>Wee'l tell ye news, Our Play is ſpoil'd, we fear,</l>
+                  <l>For our prime Subjects is 
+<note place="margin">In the Tower.</note> confin'd; howere,</l>
+                  <l>In hopes he ſoon may viſit <hi>Holborn</hi> air,</l>
+                  <l>And as in his Devices, have a ſhare</l>
+                  <l>In falſe 
+<note place="margin">Peters</note> 
+                     <hi>Hughs</hi> Puniſhment;
+we have thus much ſaid,</l>
+                  <l>To tell ye how he deſerves t'advance <hi>Dun's</hi>
+Trade.</l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
